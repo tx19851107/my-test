@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Evernote",
+		"Markdown to Clipboard",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SublimeTmpl",
+		"Table of comments"
+	]
+}
